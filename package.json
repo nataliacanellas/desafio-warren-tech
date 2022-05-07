@@ -1,0 +1,9 @@
+{
+  "name": "desafio-warren",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nataliacanellas/desafio-warren-tech",
+  "author": "Natalia Canellas",
+  "license": "MIT",
+  "private": false
+}
