@@ -1,7 +1,11 @@
 {
   "name": "desafio-warren",
   "version": "1.0.0",
-  "main": "index.js",
+  "scripts": {
+    "1":"node question1.js",
+    "2":"node question2.js",
+    "3":"node question3.js"
+  },
   "repository": "https://github.com/nataliacanellas/desafio-warren-tech",
   "author": "Natalia Canellas",
   "license": "MIT",
